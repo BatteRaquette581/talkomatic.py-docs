@@ -1,8 +1,9 @@
 var namespacetalkomatic_1_1api_1_1v1 =
 [
-    [ "api_key", "namespacetalkomatic_1_1api_1_1v1_1_1api__key.html", [
-      [ "auth_headers", "namespacetalkomatic_1_1api_1_1v1_1_1api__key.html#ae3e3946cd1c41c0c2e201df17ac3064d", null ],
-      [ "valid_api_key", "namespacetalkomatic_1_1api_1_1v1_1_1api__key.html#a0173cee2973a48bd3a93b43ff7df4b19", null ]
+    [ "auth", "namespacetalkomatic_1_1api_1_1v1_1_1auth.html", [
+      [ "get_auth_bot_token", "namespacetalkomatic_1_1api_1_1v1_1_1auth.html#a3bac93eab92224d5ec03678118f23d30", null ],
+      [ "API_AUTH_HEADERS", "namespacetalkomatic_1_1api_1_1v1_1_1auth.html#a84a488a26340037d4b2498242de75fa1", null ],
+      [ "BOT_TOKEN_PATH", "namespacetalkomatic_1_1api_1_1v1_1_1auth.html#a51611cf6a8f25e654de68b3ef6167385", null ]
     ] ],
     [ "config", "namespacetalkomatic_1_1api_1_1v1_1_1config.html", "namespacetalkomatic_1_1api_1_1v1_1_1config" ],
     [ "emoji_list", "namespacetalkomatic_1_1api_1_1v1_1_1emoji__list.html", [

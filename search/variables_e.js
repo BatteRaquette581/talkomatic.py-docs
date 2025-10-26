@@ -7,5 +7,5 @@ var searchData=
   ['room_5ffull_4',['ROOM_FULL',['../classtalkomatic_1_1api_1_1v1_1_1rooms_1_1_room_join_status.html#ac0039ef67660a39152b440cc298dd3e7',1,'talkomatic::api::v1::rooms::RoomJoinStatus']]],
   ['room_5fid_5',['room_id',['../classtalkomatic_1_1dataclasses_1_1room_1_1_room.html#a1d3adec481d25dbdaa16b5073c1e4d08',1,'talkomatic::dataclasses::room::Room']]],
   ['room_5fjoin_5fcooldown_6',['room_join_cooldown',['../classtalkomatic_1_1dataclasses_1_1rate__limits_1_1_rate_limits.html#a713c155123c056a0c2b59eb0ccd2f464',1,'talkomatic::dataclasses::rate_limits::RateLimits']]],
-  ['rooms_7',['rooms',['../classtalkomatic_1_1bot_1_1_bot.html#af1d052eeb98027f2aa0a0d20ccaa99d5',1,'talkomatic::bot::Bot']]]
+  ['rooms_7',['rooms',['../classtalkomatic_1_1bot_1_1_bot.html#af1d052eeb98027f2aa0a0d20ccaa99d5',1,'talkomatic.bot.Bot.rooms'],['../namespacedisplay__rooms.html#ae3cb01a45a1190c3fbf8806e0093e583',1,'display_rooms.rooms']]]
 ];
