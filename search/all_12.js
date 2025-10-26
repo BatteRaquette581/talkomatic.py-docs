@@ -1,21 +1,15 @@
 var searchData=
 [
-  ['talkomatic_0',['talkomatic',['../namespacetalkomatic.html',1,'']]],
-  ['talkomatic_3a_3aapi_1',['api',['../namespacetalkomatic_1_1api.html',1,'talkomatic']]],
-  ['talkomatic_3a_3aapi_3a_3av1_2',['v1',['../namespacetalkomatic_1_1api_1_1v1.html',1,'talkomatic::api']]],
-  ['talkomatic_3a_3aapi_3a_3av1_3a_3aapi_5fkey_3',['api_key',['../namespacetalkomatic_1_1api_1_1v1_1_1api__key.html',1,'talkomatic::api::v1']]],
-  ['talkomatic_3a_3aapi_3a_3av1_3a_3aconfig_4',['config',['../namespacetalkomatic_1_1api_1_1v1_1_1config.html',1,'talkomatic::api::v1']]],
-  ['talkomatic_3a_3aapi_3a_3av1_3a_3aemoji_5flist_5',['emoji_list',['../namespacetalkomatic_1_1api_1_1v1_1_1emoji__list.html',1,'talkomatic::api::v1']]],
-  ['talkomatic_3a_3aapi_3a_3av1_3a_3ahealth_6',['health',['../namespacetalkomatic_1_1api_1_1v1_1_1health.html',1,'talkomatic::api::v1']]],
-  ['talkomatic_3a_3aapi_3a_3av1_3a_3ame_7',['me',['../namespacetalkomatic_1_1api_1_1v1_1_1me.html',1,'talkomatic::api::v1']]],
-  ['talkomatic_3a_3aapi_3a_3av1_3a_3aoffensive_5fwords_8',['offensive_words',['../namespacetalkomatic_1_1api_1_1v1_1_1offensive__words.html',1,'talkomatic::api::v1']]],
-  ['talkomatic_3a_3aapi_3a_3av1_3a_3arooms_9',['rooms',['../namespacetalkomatic_1_1api_1_1v1_1_1rooms.html',1,'talkomatic::api::v1']]],
-  ['talkomatic_3a_3abot_10',['bot',['../namespacetalkomatic_1_1bot.html',1,'talkomatic']]],
-  ['talkomatic_3a_3acommands_11',['commands',['../namespacetalkomatic_1_1commands.html',1,'talkomatic']]],
-  ['talkomatic_3a_3acommands_3a_3acommand_12',['command',['../namespacetalkomatic_1_1commands_1_1command.html',1,'talkomatic::commands']]],
-  ['talkomatic_3a_3adataclasses_13',['dataclasses',['../namespacetalkomatic_1_1dataclasses.html',1,'talkomatic']]],
-  ['talkomatic_3a_3adataclasses_3a_3arate_5flimits_14',['rate_limits',['../namespacetalkomatic_1_1dataclasses_1_1rate__limits.html',1,'talkomatic::dataclasses']]],
-  ['talkomatic_3a_3adataclasses_3a_3aroom_15',['room',['../namespacetalkomatic_1_1dataclasses_1_1room.html',1,'talkomatic::dataclasses']]],
-  ['talkomatic_3a_3adataclasses_3a_3auser_16',['user',['../namespacetalkomatic_1_1dataclasses_1_1user.html',1,'talkomatic::dataclasses']]],
-  ['toggle_5fvote_17',['toggle_vote',['../classtalkomatic_1_1bot_1_1_bot.html#acb7054f810763de4d83bbf7646e65bda',1,'talkomatic::bot::Bot']]]
+  ['semi_5fprivate_0',['SEMI_PRIVATE',['../classtalkomatic_1_1dataclasses_1_1room_1_1_room_type.html#a10764d756adc5de475baf2a3d79f2bee',1,'talkomatic::dataclasses::room::RoomType']]],
+  ['send_5fmessage_1',['send_message',['../classtalkomatic_1_1bot_1_1_bot.html#a4e7ba4890d8dfcc50dfbcd98db424736',1,'talkomatic::bot::Bot']]],
+  ['send_5fparrot_5fmessage_2',['send_parrot_message',['../namespaceparrot.html#a2727a4f8beb756ed4dd2d52fab7fe45d',1,'parrot']]],
+  ['server_5ferror_3',['SERVER_ERROR',['../classtalkomatic_1_1api_1_1v1_1_1rooms_1_1_room_join_status.html#a9f41f8926cbafa7bb7790c0bee2ecc76',1,'talkomatic::api::v1::rooms::RoomJoinStatus']]],
+  ['server_5fhealth_4',['server_health',['../namespaceserver__health.html',1,'']]],
+  ['server_5fhealth_2epy_5',['server_health.py',['../server__health_8py.html',1,'']]],
+  ['server_5fversion_6',['server_version',['../classtalkomatic_1_1api_1_1v1_1_1health_1_1_server_health.html#a052e2f15749eb1b125d4f2a7af1036f8',1,'talkomatic::api::v1::health::ServerHealth']]],
+  ['serverconfig_7',['ServerConfig',['../classtalkomatic_1_1api_1_1v1_1_1config_1_1_server_config.html',1,'talkomatic::api::v1::config']]],
+  ['serverhealth_8',['ServerHealth',['../classtalkomatic_1_1api_1_1v1_1_1health_1_1_server_health.html',1,'talkomatic::api::v1::health']]],
+  ['since_5ftimestamp_9',['since_timestamp',['../classtalkomatic_1_1api_1_1v1_1_1health_1_1_server_health.html#a39ecac314594fd5cfaac1df37a413d7c',1,'talkomatic::api::v1::health::ServerHealth']]],
+  ['sio_10',['sio',['../classtalkomatic_1_1bot_1_1_bot.html#ab187a067674b4569f9c8b1a36d3c3599',1,'talkomatic::bot::Bot']]],
+  ['success_11',['SUCCESS',['../classtalkomatic_1_1api_1_1v1_1_1rooms_1_1_room_join_status.html#a056dba46ba863e753ee5939bb72c8647',1,'talkomatic::api::v1::rooms::RoomJoinStatus']]]
 ];

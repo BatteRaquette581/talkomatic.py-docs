@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['run_0',['run',['../classtalkomatic_1_1bot_1_1_bot.html#a9fbae880167dd6e3b44da5b64267ab43',1,'talkomatic::bot::Bot']]]
+  ['ping_0',['ping',['../namespaceecho.html#a871e02d88ba229ebd554c1780f24f97d',1,'echo']]]
 ];

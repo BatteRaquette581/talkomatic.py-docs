@@ -8,6 +8,9 @@ var searchData=
   ['commandparameter_5',['CommandParameter',['../classtalkomatic_1_1commands_1_1command_1_1_command_parameter.html',1,'talkomatic::commands::command']]],
   ['commands_6',['commands',['../classtalkomatic_1_1bot_1_1_bot.html#adbb3cc2945061b2cc476e69d747589d3',1,'talkomatic::bot::Bot']]],
   ['config_2epy_7',['config.py',['../config_8py.html',1,'']]],
-  ['create_5froom_8',['create_room',['../classtalkomatic_1_1bot_1_1_bot.html#a2973295c71658e526d1953b6ddc9f1c6',1,'talkomatic.bot.Bot.create_room()'],['../namespacetalkomatic_1_1api_1_1v1_1_1rooms.html#a32caf4861d28a79951e1b27304ba23ac',1,'talkomatic.api.v1.rooms.create_room()']]],
-  ['current_5froom_9',['current_room',['../classtalkomatic_1_1bot_1_1_bot.html#a300598a25fa3f8c49b0beb96733a4407',1,'talkomatic::bot::Bot']]]
+  ['create_5fhelp_5fcommand_8',['create_help_command',['../namespaceecho.html#ae73cdd51aff5962a2cd9cf838a8e1380',1,'echo']]],
+  ['create_5froom_9',['create_room',['../namespacecreate__room.html',1,'create_room'],['../classtalkomatic_1_1bot_1_1_bot.html#a2973295c71658e526d1953b6ddc9f1c6',1,'talkomatic.bot.Bot.create_room()'],['../namespacetalkomatic_1_1api_1_1v1_1_1rooms.html#a32caf4861d28a79951e1b27304ba23ac',1,'talkomatic.api.v1.rooms.create_room()']]],
+  ['create_5froom_2epy_10',['create_room.py',['../create__room_8py.html',1,'']]],
+  ['credits_11',['Credits',['../C:/Users/jean-/talkomatic.py/README.md#autotoc_md14',1,'']]],
+  ['current_5froom_12',['current_room',['../classtalkomatic_1_1bot_1_1_bot.html#a300598a25fa3f8c49b0beb96733a4407',1,'talkomatic::bot::Bot']]]
 ];
